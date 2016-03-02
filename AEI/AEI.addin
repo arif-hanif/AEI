@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>AEI Revit Addin</Name>
+    <Assembly>AEI.dll</Assembly>
+    <AddInId>E14D049E-9796-4E2D-B984-09C4C825E886</AddInId>
+    <FullClassName>AEI.ribbonUI</FullClassName>
+    <VendorId>Arif_Hanif</VendorId>
+  </AddIn>
+</RevitAddIns>
