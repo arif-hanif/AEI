@@ -15,7 +15,7 @@ namespace AEI
     {
         public Result OnStartup(UIControlledApplication app)
         {
-            string folderPath = @"C:\Users\ahanif\AppData\Roaming\Autodesk\Revit\Addins\2016";
+            string folderPath = @"C:\Program Files\AEI\AEI Tools for Revit 2016";
             string dll = Path.Combine(folderPath, "AEI.dll");
 
             string myRibbon = "AEI";

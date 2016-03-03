@@ -2,7 +2,7 @@
 <RevitAddIns>
   <AddIn Type="Application">
     <Name>AEI Revit Addin</Name>
-    <Assembly>AEI.dll</Assembly>
+    <Assembly>C:\Program Files\AEI\AEI Tools for Revit 2016\AEI.dll</Assembly>
     <AddInId>E14D049E-9796-4E2D-B984-09C4C825E886</AddInId>
     <FullClassName>AEI.ribbonUI</FullClassName>
     <VendorId>Arif_Hanif</VendorId>
